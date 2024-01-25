@@ -6,6 +6,5 @@ The dashboard is designed to offer a detailed exploration of various facets of t
 Through interactive charts, graphs, and maps, users can gain a profound understanding of how the housing market has evolved over the past two decades in these North American states. The dashboard captures key metrics, such as property values, market fluctuations, and regional trends, providing a holistic view of the housing landscape.
 
 GLIMPSE OF DASHBOARD 
-https://www.linkedin.com/posts/ajay-sati-74905b25b_storytellingwithdata-storytelling-datastorytelling-activity-7152311792684158976-1z04?utm_source=share&utm_medium=member_desktop
+[https://www.linkedin.com/posts/ajay-sati-74905b25b_storytellingwithdata-storytelling-datastorytelling-activity-7152311792684158976-1z04?utm_source=share&utm_medium=member_desktop](https://app.powerbi.com/view?r=eyJrIjoiOGZiZmMwMjktZjFlYy00NDM4LWE3N2UtZTVmNjU5MDIxZjU2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)https://app.powerbi.com/view?r=eyJrIjoiOGZiZmMwMjktZjFlYy00NDM4LWE3N2UtZTVmNjU5MDIxZjU2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
-## TO DIWNLOAD THE FILE CLICK ON DOWMLOAD IN RAW FORM ON TOP RIGHT CORNER AFTER CLCKING ON  PBIX FILE
